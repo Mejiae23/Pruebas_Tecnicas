@@ -2,4 +2,6 @@
 
 Aqui subire algunas pruebas Que quiero guardar como portafolio personal
 
-https://roadmap.sh/projects/single-page-cv
+ESTE ES UN PERFIL DE ZORO DE LOS MUGIWARA
+
+https://roadmap.sh/projects/basic-html-website
